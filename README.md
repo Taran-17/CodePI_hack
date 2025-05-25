@@ -4,16 +4,15 @@
 # 🤖 Beep Boop Bot (B3)
 
 ![Beep Boop Bot logo](optional-logo.png)
-**Beep Boop Bot** is a mobile-friendly, single-page educational game that teaches **fundamentals of coding and logical thinking** through interactive gameplay designed for **middle schoolers**.
+**Beep Boop Bot** is a mobile-friendly, single-page educational game that teaches **fundamentals of coding and logical thinking** through interactive gameplay designed for **primary to middle schoolers**.
 
 🎮 **Play Now**: [beepboopbot.surge.sh](http://beepboopbot.surge.sh)
 
 ---
 
-## 🚀 Hackathon Theme Alignment
+## 🚀 Hackathon Track
 
-**Challenge Track**: STEM + Coding for Kids
-**Target Audience**: Middle school students
+**Target Audience**: Primary to Middle school students
 **Learning Outcome**: Teaches sequencing, conditionals, and logic through a gamified robot navigation puzzle.
 
 ---
